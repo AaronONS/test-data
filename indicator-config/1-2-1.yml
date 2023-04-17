@@ -4,7 +4,7 @@ copyright: ''
 data_footnote: ''
 data_non_statistical: false
 data_notice_class: ''
-data_notice_heading: important notice about wetland
+data_notice_heading: ''
 data_notice_text: ''
 data_show_map: false
 data_start_values: []
@@ -39,14 +39,14 @@ placeholder: ''
 precision: []
 progress_status: not_available
 publications:
-- title: Wetlands
-    link: "https://example.com/path/to/my/file"
-    description: My publication description
-    date: 1983-08-12
-  - title: My other publication
-    link: "https://example.com/path/to/my/other/file"
-    description: birds and that
-    date: 2022-01-01
+  - title: help
+    link: what
+    description: need some input
+    date: '2022-01-01'
+  - title: number 2
+    link: xxx
+    description: xxx
+    date: '2021-01-01'
 related_indicators: []
 reporting_status: complete
 sort: ''
